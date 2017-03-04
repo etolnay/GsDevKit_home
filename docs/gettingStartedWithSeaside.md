@@ -31,7 +31,7 @@ bu backup seaside.dbf
 
 ## Creating a Seaside gem server
 
-Wiuth seaside installed, you use the `/home/seaside/gemServer` script to register, start, and stop a Seaside gem server.
+With seaside installed, you use the `/home/seaside/gemServer` script to register, start, and stop a Seaside gem server.
 The following tODE command defines a gemServer named *seaside* that will listen for HTTP requests on port 1750:
 
 ```
